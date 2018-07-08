@@ -1,0 +1,11 @@
+use_frameworks!
+
+target 'LocalLib_Example' do
+  pod 'LocalLib', :path => '../'
+
+  target 'LocalLib_Tests' do
+    inherit! :search_paths
+
+    
+  end
+end
