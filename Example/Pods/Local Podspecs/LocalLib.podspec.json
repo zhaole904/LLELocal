@@ -1,0 +1,22 @@
+{
+  "name": "LocalLib",
+  "version": "0.1.0",
+  "summary": "A short description of LocalLib.",
+  "description": "TODO: Add long description of the pod here.",
+  "homepage": "https://github.com/zhaole904/LocalLib",
+  "license": {
+    "type": "MIT",
+    "file": "LICENSE"
+  },
+  "authors": {
+    "zhaole904": "763815972@qq.com"
+  },
+  "source": {
+    "git": "https://github.com/zhaole904/LocalLib.git",
+    "tag": "0.1.0"
+  },
+  "platforms": {
+    "ios": "8.0"
+  },
+  "source_files": "LocalLib/Classes/**/*"
+}
